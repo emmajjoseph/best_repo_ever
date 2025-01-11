@@ -5,13 +5,13 @@ This portfolio website showcases my skills and expertise as a frontend developer
 ## Screenshots
 
 ## Homepage
-![Homepage screenshot](https://github.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot1.png")
+![Homepage screenshot](https://github.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot11.png")
 
 ## About Page
-![Aboutpage screenshot](./images/screenshot12.png")
+![Aboutpage screenshot](https://github.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot12.png")
 
 ## Contact Page
-![Contactpage screenshot](./images/screenshot13.png")
+![Contactpage screenshot](https://github.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot13.png")
 
 ## Services page
-![Servicespage screenshot](./images/screenshot14.png")
+![Servicespage screenshot](https://github.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot14.png")
