@@ -9,10 +9,11 @@ This portfolio website showcases my skills and expertise as a frontend developer
 
 
 ## About Page
-![Aboutpage screenshot](https://raw.githubusercontent.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot12.png")
+![Aboutpage screenshot](https://github.com/emmajjoseph/portfolio_site/raw/main/my-project/src/assets/images/screenshot12.png "Optional Title")
+
 
 ## Contact Page
-![Contactpage screenshot](https://rawgithubusercontent.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot13.png")
+![Contactpage screenshot](https://github.com/emmajjoseph/portfolio_site/raw/main/my-project/src/assets/images/screenshot13.png "Optional Title")
 
 ## Services page
-![Servicespage screenshot](https://rawgithubusercontent.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot14.png")
+![Servicespage screenshot](https://github.com/emmajjoseph/portfolio_site/raw/main/my-project/src/assets/images/screenshot14.png "Optional Title")
