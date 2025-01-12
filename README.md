@@ -5,7 +5,8 @@ This portfolio website showcases my skills and expertise as a frontend developer
 ## Screenshots
 
 ## Homepage
-![Homepage screenshot](my-project/src/assets/images/screenshot11.png")
+![Homepage screenshot](https://github.com/emmajjoseph/portfolio_site/raw/main/my-project/src/assets/images/screenshot11.png "Optional Title")
+
 
 ## About Page
 ![Aboutpage screenshot](https://raw.githubusercontent.com/emmajjoseph/portfolio_site/tree/main/my-project/src/assets/images/screenshot12.png")
